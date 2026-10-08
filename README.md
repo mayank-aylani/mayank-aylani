@@ -13,7 +13,7 @@
 <h3><font color="#264169"><tt>EDUCATION</tt></font></h3>
 
 <tt><b>Sri Aurobindo Institute of Technology, Indore</b> <span>Aug 2023 - Jun 2027</span></tt><br>
-<tt>B.Tech in Computer Engineering &nbsp;&nbsp; <b>CGPA: 8.1/10</b></tt>
+<tt>B.Tech in Computer Engineering &nbsp;&nbsp; <b>CGPA: 8.2/10</b></tt>
 
 <h3><font color="#264169"><tt>TECHNICAL SKILLS</tt></font></h3>
 
