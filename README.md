@@ -1,7 +1,7 @@
 <div align="center">
 <tt><font color="#264169"><b>MAYANK AYLANI</b></font></tt><br>
 <tt>Ujjain, Madhya Pradesh, India&nbsp; | &nbsp;aylanimayank11@gmail.com&nbsp; | &nbsp;+91 8815378793</tt><br>
-<tt>&nbsp;<a href="https://linkedin.com/in/mayankaylani">linkedin.com/in/mayankaylani</a>&nbsp; | &nbsp;<a href="https://leetcode.com/u/mayank-aylani">leetcode.com/u/mayank-aylani</a>&nbsp; | &nbsp;<a href="https://codechef.com/users/mayank_aylani">codechef.com/users/mayank_aylani</a></tt>
+<tt> &nbsp;<a href="https://linkedin.com/in/mayankaylani">linkedin.com/in/mayankaylani</a>&nbsp; | &nbsp;<a href="https://leetcode.com/u/mayank-aylani">leetcode.com/u/mayank-aylani</a>&nbsp; | &nbsp;<a href="https://codechef.com/users/mayank_aylani">codechef.com/users/mayank_aylani</a></tt>
 </div>
 
 ---
