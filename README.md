@@ -1,36 +1,39 @@
-# Hi, I'm Mayank Aylani
+# `Hi, I'm Mayank Aylani`
 
 `Computer Engineering Student · Software Developer · Systems & ML Enthusiast`
 
-I enjoy understanding how software works internally and building things from scratch rather than relying entirely on existing frameworks.
+`I'm a 4th-year undergraduate student. I started my programming journey back in 2023 when I began my degree.`
 
-I started with C, building my own data structures and algorithms library. Then I moved to C++, developing an HTTP server and STL-style components. With Java, I explored layered application architecture, design patterns, database connectivity, and ORM development.
+`I started with C, where I built my own Data Structures and Algorithms library. From there, I moved to C++ and started exploring things at a deeper level, building an HTTP web server from scratch and implementing my own versions of STL classes such as ArrayList, LinkedList, and other STL-style wrappers.`
 
-Currently, I'm building my own machine learning library in C, exploring numerical computing, matrix operations, memory-efficient data structures, and multithreaded computation.
+`Then came Java, where I worked on an HR and Inventory Control application with a Swing-based UI. Currently, I'm exploring J2EE and working on my own ORM framework.`
+
+`Alongside this, I've also been exploring Machine Learning and numerical computing. I've been working on my own NDArray implementation, including NDArrayView and NDArrayTransposedView, multithreaded matrix multiplication, and lazy expressions that can evaluate operations such as a+b-c*d using operator overloading of C++.`
 
 ### `WHAT I'M WORKING ON`
 
-- Building reusable C/C++ libraries and systems-level software.
-- Developing Java applications and my own ORM framework.
-- Exploring machine learning, linear algebra, and numerical computing.
-- Strengthening my problem-solving skills through DSA.
+- `Building reusable C and C++ libraries from scratch.`
+- `Exploring J2EE and developing my own ORM framework.`
+- `Developing an NDArray implementation and numerical computing components.`
+- `Learning and implementing machine learning algorithms and optimization techniques.`
 
 ### `TECH STACK`
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE-ED8B00?style=flat&logo=jakartaee&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 
 ### `HIGHLIGHTS`
 
-- Solved 500+ DSA problems across LeetCode and CodeChef.
-- Built projects involving socket programming, data structures, layered architecture, and machine learning.
-- Led Smart India Hackathon teams in 2024 and 2025.
+- `Solved 500+ DSA problems across LeetCode and CodeChef.`
+- `Built an HTTP server, reusable data structures, and STL-style components.`
+- `Led Smart India Hackathon teams in 2024 and 2025.`
 
 ### `CONNECT WITH ME`
 
