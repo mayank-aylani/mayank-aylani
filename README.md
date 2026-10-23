@@ -1,6 +1,6 @@
 # `Hi, I'm Mayank Aylani`
 
-`Computer Engineering Student · Software Developer · Systems & ML Enthusiast`
+`Computer Engineering Student · Software Developer`
 
 `I'm a 4th-year undergraduate student. I started my programming journey back in 2023 when I began my degree.`
 
@@ -12,10 +12,8 @@
 
 ### `WHAT I'M WORKING ON`
 
-- `Building reusable C and C++ libraries from scratch.`
-- `Exploring J2EE and developing my own ORM framework.`
-- `Developing an NDArray implementation and numerical computing components.`
-- `Learning and implementing machine learning algorithms and optimization techniques.`
+- `J2EE and developing my own ORM framework.`
+- `NDArray implementation and numerical computing components in C\C++.`
 
 ### `TECH STACK`
 
@@ -32,13 +30,11 @@
 ### `HIGHLIGHTS`
 
 - `Solved 500+ DSA problems across LeetCode and CodeChef.`
-- `Built an HTTP server, reusable data structures, and STL-style components.`
 - `Led Smart India Hackathon teams in 2024 and 2025.`
+- `TEDxSAIT 2026 Volunteer.`
 
 ### `CONNECT WITH ME`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayankaylani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/mayank-aylani)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://codechef.com/users/mayank_aylani)
-
-`I learn by building, experiment by breaking things, and improve by understanding why they work.`
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://codechef.com/users/mayank_aylani).`
